@@ -1,0 +1,3 @@
+1. How many are present:
+2. How many have used GitHub:
+3. How many have used GitHub beyond cloning a repo:
